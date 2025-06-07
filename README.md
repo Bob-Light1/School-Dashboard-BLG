@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# School Dashboard By Bob Light Guiogna
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about Next.js, take a look at the following resources or others if you want :
 
 - [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
 - [Next.js](https://nextjs.org/learn)
