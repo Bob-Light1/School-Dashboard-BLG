@@ -1,0 +1,15 @@
+[
+    {
+        "label" : "Boys",
+        "value" : "30",
+        "backgroundColor" :"#C3EBFA",
+        "borderColor" :"#C3EBFA"
+    },
+
+    {
+        "label" : "Girls",
+        "value" : "20",
+        "backgroundColor" :"#FAE27C",
+        "borderColor" :"#FAE27C"
+    }
+]

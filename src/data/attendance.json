@@ -1,0 +1,54 @@
+[
+    {
+        "label" : "Monday",
+        "PresenceValue" : "500",
+        "AbsenceValue" : "60",
+        "PresencebackgroundColor" :"#C3EBFA",
+        "AbsencebackgroundColor"  :"rgba(255, 99, 132, 0.5)"
+    },
+
+    {
+        "label" : "Tuesday",
+        "PresenceValue" : "450",
+        "AbsenceValue" : "110",
+        "PresencebackgroundColor" :"#C3EBFA",
+        "AbsencebackgroundColor"  :"rgba(255, 99, 132, 0.5)"
+    },
+
+    {
+        "label" : "Wednesday",
+        "PresenceValue" : "460",
+        "AbsenceValue" : "100",
+        "PresencebackgroundColor" :"#C3EBFA",
+        "AbsencebackgroundColor"  :"rgba(255, 99, 132, 0.5)"
+    },
+
+    {
+        "label" : "Thursday",
+        "PresenceValue" : "550",
+        "AbsenceValue" : "10",
+        "PresencebackgroundColor" :"#C3EBFA",
+        "AbsencebackgroundColor"  :"rgba(255, 99, 132, 0.5)"
+    },
+    {
+        "label" : "Friday",
+        "PresenceValue" : "550",
+        "AbsenceValue" : "10",
+        "PresencebackgroundColor" :"#C3EBFA",
+        "AbsencebackgroundColor"  :"rgba(255, 99, 132, 0.5)"
+    },
+    {
+        "label" : "Saturday",
+        "PresenceValue" : "360",
+        "AbsenceValue" : "300",
+        "PresencebackgroundColor" :"#C3EBFA",
+        "AbsencebackgroundColor"  :"rgba(255, 99, 132, 0.5)"
+    },
+    {
+        "label" : "Sunday",
+        "PresenceValue" : "50",
+        "AbsenceValue" : "510",
+        "PresencebackgroundColor" :"#C3EBFA",
+        "AbsencebackgroundColor"  :"rgba(255, 99, 132, 0.5)"
+    }
+]

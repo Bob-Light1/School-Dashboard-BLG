@@ -1,0 +1,118 @@
+[
+    {
+        "label" : "January",
+        "ExpensValue" : "15",
+        "Incomevalue" : "35",
+        "ExpensbackgroundColor" :"#ffdc73",
+        "ExpensborderColor" :"#ffbf00",
+        "IncomebackgroundColor" :"#20a7db",
+        "IncomeborderColor" :"#C3EBFA"
+    },
+
+    {
+        "label" : "February",
+        "ExpensValue" : "16",
+        "Incomevalue" : "25",
+        "ExpensbackgroundColor" :"#ffdc73",
+        "ExpensborderColor" :"#ffbf00",
+        "IncomebackgroundColor" :"#20a7db",
+        "IncomeborderColor" :"#C3EBFA"
+    },
+
+    {
+        "label" : "March",
+       "ExpensValue" : "19",
+        "Incomevalue" : "20",
+        "ExpensbackgroundColor" :"#ffdc73",
+        "ExpensborderColor" :"#ffbf00",
+        "IncomebackgroundColor" :"#20a7db",
+        "IncomeborderColor" :"#C3EBFA"
+    },
+
+    {
+        "label" : "April",
+        "ExpensValue" : "21",
+        "Incomevalue" : "18",
+        "ExpensbackgroundColor" :"#ffdc73",
+        "ExpensborderColor" :"#ffbf00",
+        "IncomebackgroundColor" :"#20a7db",
+        "IncomeborderColor" :"#C3EBFA"
+    },
+    {
+        "label" : "May",
+        "ExpensValue" : "21",
+        "Incomevalue" : "21",
+        "ExpensbackgroundColor" :"#ffdc73",
+        "ExpensborderColor" :"#ffbf00",
+        "IncomebackgroundColor" :"#20a7db",
+        "IncomeborderColor" :"#C3EBFA"
+    },
+    {
+        "label" : "June",
+        "ExpensValue" : "22",
+        "Incomevalue" : "25",
+        "ExpensbackgroundColor" :"#ffdc73",
+        "ExpensborderColor" :"#ffbf00",
+        "IncomebackgroundColor" :"#20a7db",
+        "IncomeborderColor" :"#C3EBFA"
+    },
+    {
+        "label" : "July",
+        "ExpensValue" : "25",
+        "Incomevalue" : "35",
+        "ExpensbackgroundColor" :"#ffdc73",
+        "ExpensborderColor" :"#ffbf00",
+        "IncomebackgroundColor" :"#20a7db",
+        "IncomeborderColor" :"#C3EBFA"
+    },
+
+    {
+        "label" : "August",
+        "ExpensValue" : "30",
+        "Incomevalue" : "45",
+        "ExpensbackgroundColor" :"#ffdc73",
+        "ExpensborderColor" :"#ffbf00",
+        "IncomebackgroundColor" :"#20a7db",
+        "IncomeborderColor" :"#C3EBFA"
+    },
+
+    {
+        "label" : "September",
+        "ExpensValue" : "30",
+        "Incomevalue" : "50",
+        "ExpensbackgroundColor" :"#ffdc73",
+        "ExpensborderColor" :"#ffbf00",
+        "IncomebackgroundColor" :"#20a7db",
+        "IncomeborderColor" :"#C3EBFA"
+    },
+
+    {
+        "label" : "October",
+        "ExpensValue" : "30",
+        "Incomevalue" : "60",
+        "ExpensbackgroundColor" :"#ffdc73",
+        "ExpensborderColor" :"#ffbf00",
+        "IncomebackgroundColor" :"#20a7db",
+        "IncomeborderColor" :"#C3EBFA"
+    },
+
+    {
+        "label" : "November",
+        "ExpensValue" : "35",
+        "Incomevalue" : "70",
+        "ExpensbackgroundColor" :"#ffdc73",
+        "ExpensborderColor" :"#ffbf00",
+        "IncomebackgroundColor" :"#20a7db",
+        "IncomeborderColor" :"#C3EBFA"
+    },
+
+    {
+        "label" : "December",
+        "ExpensValue" : "50",
+        "Incomevalue" : "75",
+        "ExpensbackgroundColor" :"#ffdc73",
+        "ExpensborderColor" :"#ffbf00",
+        "IncomebackgroundColor" :"#20a7db",
+        "IncomeborderColor" :"#C3EBFA"
+    }
+]
